@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yiunsr
-- 👀 I’m interested in 🐍(Python)
+- 👀 My main programming language is python. 🐍(Python)
 - 🌱 I’m currently learning 🦀(Rust)
 
 
